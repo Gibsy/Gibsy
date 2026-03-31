@@ -25,5 +25,3 @@ C:\Users\Gibsy> fetch --stats --all --author=Gibsy
   <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gibsy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
-
