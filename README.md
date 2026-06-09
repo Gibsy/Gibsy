@@ -1,1 +1,21 @@
-o2jkejkqwopoewdasg90849h
+# Hi, I'm gibsy
+Cybersecurity enthusiast and Kotlin / Android developer, with a soft spot for
+everything low-level. I like understanding how systems actually work - then
+building on top of that, whether it's a polished mobile app or a tool that
+hides data inside an image.
+
+### What I do
+- 🔐 Cybersecurity - steganography, LSB encoders/decoders, file & binary
+  analysis, and hands-on low-level experiments to understand systems inside out.
+- 📱 Kotlin & Android - building real apps (e.g. gifty, a universal gift &
+  reciprocity tracker) with a focus on clean architecture and good UX.
+- 🌐 Web - HTML/CSS/JS tools and experiments, personal sites and browser toys.
+- ⚙️ Low-level - C & x86 Assembly: custom image formats,
+  size-optimized binaries, and reverse-engineering-style projects.
+
+### Stack
+`Kotlin` · `C` · `Assembly` · `Python` · `JavaScript` · `HTML/CSS`
+
+### Find me
+- Website: https://gibsy.is-a.dev
+- Github alt: https://github.com/wired-asm
