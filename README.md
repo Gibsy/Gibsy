@@ -1,4 +1,4 @@
-# Hi, I'm gibsy
+# Hi, I'm encrize
 Cybersecurity enthusiast and developer, with a soft spot for
 everything low-level. I like understanding how systems actually work - then
 building on top of that, whether it's a polished mobile app or a tool that
